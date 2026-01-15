@@ -56,7 +56,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedamr102&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" />
 
 <br/>
 
@@ -64,7 +63,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedamr102&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 
