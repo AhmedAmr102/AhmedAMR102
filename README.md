@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 <h1>Hi 👋, I'm Ahmed Amr Gomaa</h1>
@@ -11,14 +9,15 @@
   <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Amr%20Gomaa-blue?style=flat&logo=linkedin">
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedAmrGomaa&color=orange)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AhmedAmrGomaa&color=orange" />
 
 </div>
 
 ---
 
 ## 🚀 About Me
-
 - 💻 Back-End Developer using **ASP.NET Core & Laravel**
 - 🔐 Authentication & Authorization (JWT)
 - 🗄️ Working with **SQL Server & MySQL**
@@ -53,15 +52,25 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedamr102&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedamr102&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedamr102&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedamr102&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ahmedamr102&theme=shadow_green&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedamr102&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
 
 ---
 
 ## 📫 Contact Me
-
 - 💼 LinkedIn: **[Ahmed Amr Gomaa](https://www.linkedin.com/in/ahmed-amr-89867923b)**
 - 💬 Ask me about **.NET, Laravel, APIs, Databases**
 
