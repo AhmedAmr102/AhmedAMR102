@@ -2,8 +2,9 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
-<h1>Hi 👋, I'm Ahmed Amr Gomaa</h1>
-<h3>Back-End Developer | .NET & Laravel</h3>
+<h1>Hi 👋, </h1>
+<h1>I'm Ahmed Amr Gomaa</h1>
+<h3>Full Stack Developer | .NET & Laravel | Angular</h3>
 
 <a href="https://www.linkedin.com/in/ahmed-amr-89867923b">
   <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Amr%20Gomaa-blue?style=flat&logo=linkedin">
@@ -19,6 +20,7 @@
 
 ## 🚀 About Me
 - 💻 Back-End Developer using **ASP.NET Core & Laravel**
+- 💻 Front-End Developer using **Angular**
 - 🔐 Authentication & Authorization (JWT)
 - 🗄️ Working with **SQL Server & MySQL**
 - 🌱 Continuously improving clean code & APIs
@@ -38,6 +40,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ### 🔹 Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -70,7 +74,7 @@
 
 ## 📫 Contact Me
 - 💼 LinkedIn: **[Ahmed Amr Gomaa](https://www.linkedin.com/in/ahmed-amr-89867923b)**
-- 💬 Ask me about **.NET, Laravel, APIs, Databases**
+- 💬 Ask me about **.NET, Laravel, APIs, Databases , Angular**
 
 ---
 
